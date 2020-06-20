@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ACER-PREDATOR\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ACER-PREDATOR\\.nuget\\packages",
+      "C:\\Microsoft\\Xamarin\\NuGet"
+    ]
+  }
+}

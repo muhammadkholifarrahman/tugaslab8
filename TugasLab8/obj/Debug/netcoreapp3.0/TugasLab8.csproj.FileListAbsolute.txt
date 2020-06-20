@@ -1,0 +1,13 @@
+C:\Users\ACER-PREDATOR\Documents\File Komdat\tugaslab8-master\TugasLab8\bin\Debug\netcoreapp3.0\TugasLab8.exe
+C:\Users\ACER-PREDATOR\Documents\File Komdat\tugaslab8-master\TugasLab8\bin\Debug\netcoreapp3.0\TugasLab8.deps.json
+C:\Users\ACER-PREDATOR\Documents\File Komdat\tugaslab8-master\TugasLab8\bin\Debug\netcoreapp3.0\TugasLab8.runtimeconfig.json
+C:\Users\ACER-PREDATOR\Documents\File Komdat\tugaslab8-master\TugasLab8\bin\Debug\netcoreapp3.0\TugasLab8.runtimeconfig.dev.json
+C:\Users\ACER-PREDATOR\Documents\File Komdat\tugaslab8-master\TugasLab8\bin\Debug\netcoreapp3.0\TugasLab8.dll
+C:\Users\ACER-PREDATOR\Documents\File Komdat\tugaslab8-master\TugasLab8\bin\Debug\netcoreapp3.0\TugasLab8.pdb
+C:\Users\ACER-PREDATOR\Documents\File Komdat\tugaslab8-master\TugasLab8\obj\Debug\netcoreapp3.0\TugasLab8.csprojAssemblyReference.cache
+C:\Users\ACER-PREDATOR\Documents\File Komdat\tugaslab8-master\TugasLab8\obj\Debug\netcoreapp3.0\TugasLab8.AssemblyInfoInputs.cache
+C:\Users\ACER-PREDATOR\Documents\File Komdat\tugaslab8-master\TugasLab8\obj\Debug\netcoreapp3.0\TugasLab8.AssemblyInfo.cs
+C:\Users\ACER-PREDATOR\Documents\File Komdat\tugaslab8-master\TugasLab8\obj\Debug\netcoreapp3.0\TugasLab8.csproj.CoreCompileInputs.cache
+C:\Users\ACER-PREDATOR\Documents\File Komdat\tugaslab8-master\TugasLab8\obj\Debug\netcoreapp3.0\TugasLab8.dll
+C:\Users\ACER-PREDATOR\Documents\File Komdat\tugaslab8-master\TugasLab8\obj\Debug\netcoreapp3.0\TugasLab8.pdb
+C:\Users\ACER-PREDATOR\Documents\File Komdat\tugaslab8-master\TugasLab8\obj\Debug\netcoreapp3.0\TugasLab8.genruntimeconfig.cache
